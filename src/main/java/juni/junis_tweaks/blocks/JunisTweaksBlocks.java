@@ -41,11 +41,11 @@ public class JunisTweaksBlocks {
 		BlockBehaviour.Properties.ofFullCopy(Blocks.STONE_BRICKS)
 	));
 
-	public static final DeferredBlock<Block> DIORITE_BRICKS = registerBlockAndItem("calcite_bricks", () -> new Block(
+	public static final DeferredBlock<Block> DIORITE_BRICKS = registerBlockAndItem("diorite_bricks", () -> new Block(
 		BlockBehaviour.Properties.ofFullCopy(Blocks.STONE_BRICKS)
 	));
 
-	public static final DeferredBlock<Block> ANDESITE_BRICKS = registerBlockAndItem("calcite_bricks", () -> new Block(
+	public static final DeferredBlock<Block> ANDESITE_BRICKS = registerBlockAndItem("andesite_bricks", () -> new Block(
 		BlockBehaviour.Properties.ofFullCopy(Blocks.STONE_BRICKS)
 	));
 

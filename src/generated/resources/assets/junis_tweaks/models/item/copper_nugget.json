@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "junis_tweaks:item/copper_nugget"
+  }
+}
